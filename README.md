@@ -2,9 +2,6 @@
 
 This extension can help you get unstuck from a tricky Wordle puzzle.  It provides a sidebar you can open to see a list of valid guesses based on the current state of the puzzle.  When the list is short, it will give you letter-by-letter hints to avoid revealing the answer too easily.
 
-![theme preview](https://theotrain.github.io/images/Screen%20Shot%20Dawn%20with%20goCart%20drawer%20cart.png)
-
-
 ## Install as a Chrome Extension
 
 1) Near the top of this page, expand the green "Code" dropdown, and choose "Download ZIP"
