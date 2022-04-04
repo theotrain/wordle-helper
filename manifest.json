@@ -1,0 +1,15 @@
+{
+  "name": "Wordle Helper",
+  "version": "1.0.0",
+  "description": "sidebar for help solving wordle",
+  "manifest_version": 3,
+  "author": "Code Hobo",
+  "icons": {
+    "48": "icons/wordle-helper48.png",
+    "96": "icons/wordle-helper96.png"
+  },
+  "content_scripts": [{
+    "matches": ["https://www.nytimes.com/games/wordle/index.html"],
+    "js": ["wordle-helper.js"]
+  }]
+}
