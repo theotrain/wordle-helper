@@ -38,4 +38,4 @@ By default, if there are more than 12 words remaining, you will see the words li
 
 ### Video
 
-There's a [youtube video](https://www.youtube.com/watch?v=xxxxxxxxx) for this project.  It shows you how to write a regular expression for a Wordle puzzle, and gets you started with the Javascript. 
+There's a [youtube video](https://youtu.be/iL4ZigGiN1E ) for this project.  It shows you how to write a regular expression for a Wordle puzzle, and gets you started with the Javascript. 
